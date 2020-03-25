@@ -1,16 +1,2 @@
-# scrapper
-A basic example of Python Scrapy framework
-
-Installation:
-
-`pip install scrapy`
-
-Run from terminal:
-
-`cd imdb`
-
-`scrapy crawl imbd -o furious.json`
-
-or
-
-`scrapy crawl imbd -o furious.xml`
+# Лабораторна робота 1 з дисципліни “ Бази даних 2. БД на основі XML”
+Виконав : Чумак Михайло Сергійович - КП-72
